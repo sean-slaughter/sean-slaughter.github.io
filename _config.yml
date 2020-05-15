@@ -1,11 +1,11 @@
 # Site settings
 author: Sean Thompson
-title: 
+title: AlgoRhythm
 header-img: img/home-bg.png
 email: sthompson2822@gmail.com
 copyright_name: Sean Thompson
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Development Ideas For Beginners, From a Beginner
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  sean-slaughter
